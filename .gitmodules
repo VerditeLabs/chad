@@ -1,0 +1,78 @@
+[submodule "thirdparty/single_file_libs"]
+	path = thirdparty/single_file_libs
+	url = https://github.com/nothings/single_file_libs.git
+[submodule "thirdparty/lib"]
+	path = thirdparty/lib
+	url = https://github.com/vurtun/lib.git
+[submodule "thirdparty/stb"]
+	path = thirdparty/stb
+	url = https://github.com/nothings/stb.git
+[submodule "thirdparty/Nuklear"]
+	path = thirdparty/Nuklear
+	url = https://github.com/Immediate-Mode-UI/Nuklear.git
+[submodule "thirdparty/dmon"]
+	path = thirdparty/dmon
+	url = https://github.com/septag/dmon.git
+[submodule "thirdparty/Snippets"]
+	path = thirdparty/Snippets
+	url = https://github.com/DanielGibson/Snippets.git
+[submodule "thirdparty/awesome-c"]
+	path = thirdparty/awesome-c
+	url = https://github.com/oz123/awesome-c.git
+[submodule "thirdparty/awesome-c-preprocessor"]
+	path = thirdparty/awesome-c-preprocessor
+	url = https://github.com/Hirrolot/awesome-c-preprocessor.git
+[submodule "thirdparty/hedley"]
+	path = thirdparty/hedley
+	url = https://github.com/nemequ/hedley.git
+[submodule "thirdparty/portable-snippets"]
+	path = thirdparty/portable-snippets
+	url = https://github.com/nemequ/portable-snippets.git
+[submodule "thirdparty/munit"]
+	path = thirdparty/munit
+	url = https://github.com/nemequ/munit.git
+[submodule "thirdparty/sokol"]
+	path = thirdparty/sokol
+	url = https://github.com/floooh/sokol.git
+[submodule "thirdparty/cute_headers"]
+	path = thirdparty/cute_headers
+	url = https://github.com/RandyGaul/cute_headers.git
+[submodule "thirdparty/miniaudio"]
+	path = thirdparty/miniaudio
+	url = https://github.com/mackron/miniaudio.git
+[submodule "thirdparty/miniz"]
+	path = thirdparty/miniz
+	url = https://github.com/richgel999/miniz.git
+[submodule "thirdparty/microtar"]
+	path = thirdparty/microtar
+	url = https://github.com/rxi/microtar.git
+[submodule "thirdparty/Monocypher"]
+	path = thirdparty/Monocypher
+	url = https://github.com/LoupVaillant/Monocypher.git
+[submodule "thirdparty/tinydir"]
+	path = thirdparty/tinydir
+	url = https://github.com/cxong/tinydir.git
+[submodule "thirdparty/whereami"]
+	path = thirdparty/whereami
+	url = https://github.com/gpakosz/whereami.git
+[submodule "thirdparty/xxHash"]
+	path = thirdparty/xxHash
+	url = https://github.com/Cyan4973/xxHash.git
+[submodule "thirdparty/libs"]
+	path = thirdparty/libs
+	url = https://github.com/mattiasgustavsson/libs.git
+[submodule "thirdparty/tinycthread"]
+	path = thirdparty/tinycthread
+	url = https://github.com/tinycthread/tinycthread.git
+[submodule "thirdparty/json.h"]
+	path = thirdparty/json.h
+	url = https://github.com/sheredom/json.h.git
+[submodule "thirdparty/tgc"]
+	path = thirdparty/tgc
+	url = https://github.com/orangeduck/tgc.git
+[submodule "thirdparty/b63"]
+	path = thirdparty/b63
+	url = https://github.com/okuvshynov/b63.git
+[submodule "thirdparty/minicoro"]
+	path = thirdparty/minicoro
+	url = https://github.com/edubart/minicoro.git

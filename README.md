@@ -1,2 +1,2 @@
-# chad
-🗿
+# 🗿
+🗿 is for chads

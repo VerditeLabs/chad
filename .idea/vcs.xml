@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/Monocypher" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/Nuklear" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/Snippets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/awesome-c" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/awesome-c-preprocessor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/b63" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/cute_headers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/dmon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/hedley" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/json.h" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/libs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/microtar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/miniaudio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/minicoro" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/miniz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/munit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/portable-snippets" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/single_file_libs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/sokol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/stb" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/tgc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/tinycthread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/tinydir" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/whereami" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/thirdparty/xxHash" vcs="Git" />
+  </component>
+</project>
