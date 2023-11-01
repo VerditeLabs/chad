@@ -3,9 +3,11 @@
 #include <stdio.h>
 #include <assert.h>
 #include <stdlib.h>
+#include <stdbool.h>
 
 #define auto __auto_type
 #define overload __attribute__((overloadable))
+#define noinline __attribute__((noinline))
 
 
 #define die(...)do{printf(__VA_ARGS__); exit(1);}while(0)
@@ -31,7 +33,10 @@ typedef u32 uint;
 void chadinit(void* stk);
 void chadfini(void);
 
-overload void* new(sint sz);
-overload void* new(sint sz, int flags, void(*dtor)(void*));
-overload void* renew(void* p, sint sz);
-overload void del(void* p);
+noinline overload void* new(sint sz);
+noinline overload void* new(sint sz, int flags, void(*dtor)(void*));
+noinline overload void* renew(void* p, sint sz);
+noinline overload void del(void* p);
+
+
+static inline bool eq(int a, int b) {return a==b;}
